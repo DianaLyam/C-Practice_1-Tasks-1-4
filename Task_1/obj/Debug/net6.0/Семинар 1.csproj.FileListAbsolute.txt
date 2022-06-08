@@ -1,0 +1,30 @@
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\bin\Debug\net6.0\Семинар 1.exe
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\bin\Debug\net6.0\Семинар 1.deps.json
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\bin\Debug\net6.0\Семинар 1.runtimeconfig.json
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\bin\Debug\net6.0\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\bin\Debug\net6.0\ref\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\bin\Debug\net6.0\Семинар 1.pdb
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.csproj.AssemblyReference.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.AssemblyInfoInputs.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.AssemblyInfo.cs
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.csproj.CoreCompileInputs.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\ref\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.pdb
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Семинар 1\obj\Debug\net6.0\Семинар 1.genruntimeconfig.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\bin\Debug\net6.0\Семинар 1.exe
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\bin\Debug\net6.0\Семинар 1.deps.json
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\bin\Debug\net6.0\Семинар 1.runtimeconfig.json
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\bin\Debug\net6.0\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\bin\Debug\net6.0\ref\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\bin\Debug\net6.0\Семинар 1.pdb
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.csproj.AssemblyReference.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.AssemblyInfoInputs.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.AssemblyInfo.cs
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.csproj.CoreCompileInputs.cache
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\ref\Семинар 1.dll
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.pdb
+C:\Users\Диана\OneDrive\Документы\Разработчик\4 блок Язык программирования С шарп\Home_work\Task_1\obj\Debug\net6.0\Семинар 1.genruntimeconfig.cache
